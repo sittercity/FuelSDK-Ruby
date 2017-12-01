@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    fuelsdk-sc (0.0.8)
+    fuelsdk-sc (0.0.9)
       json (~> 1.8.1)
       jwt (< 2)
       savon (= 2.2.0)
